@@ -5,6 +5,6 @@ The Function can be accessed by the url --https://3a4vjydypaj4ktqp73dnkdeu7a0myg
 Example of the function body
 ```json
 {
-  "location":"Bangalore";
+  "location":"Bangalore"
 }
 ```
